@@ -2,7 +2,7 @@
 **/.terraform/*
 
 # Ignore .tfvar  files
-*.tfvars
+#*.tfvars
 *.tfvars.json
 
 
